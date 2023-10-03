@@ -1,0 +1,14 @@
+.pokemon {
+    border-radius: 5%;
+    transition: 0.4;
+    position: relative;
+    padding: 10% 0%;
+    border: 1px solid black;
+    color: black;
+    text-align: center;
+    z-index: 6;
+}
+
+.planta {
+    background-color: rgb(66, 184, 66);
+}
